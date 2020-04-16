@@ -66,3 +66,8 @@ using System.Security;
     //[assembly: AssemblyFileVersion("4.5.0.0")]
 #endif
 [assembly: AllowPartiallyTrustedCallers]
+[assembly: AssemblyTitle("EPPlus")]
+[assembly: AssemblyProduct("EPPlus")]
+[assembly: AssemblyCopyright("Jan Kallman 2020 - Version By GeErghon")]
+[assembly: AssemblyVersion("4.5.3.3")]
+[assembly: AssemblyFileVersion("4.5.3.3")]
